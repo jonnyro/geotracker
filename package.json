@@ -1,0 +1,19 @@
+{
+  "name": "geotracker",
+  "version": "1.0.0",
+  "description": "Sharing points, polygons, polylines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnyro/geotracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnyro/geotracker/issues"
+  },
+  "homepage": "https://github.com/jonnyro/geotracker#readme"
+}
